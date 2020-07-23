@@ -1,0 +1,2 @@
+Prefix plugins/CSVDup/example
+Plugin CSVDup inputfile input.csv outputfile dups
